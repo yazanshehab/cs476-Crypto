@@ -8,3 +8,5 @@ npm install --save @babel/polyfill
 
 npm install --save @babel/register
 
+npm install web3
+
